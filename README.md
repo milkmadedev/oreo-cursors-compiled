@@ -16,7 +16,7 @@ The cursors in this repository are pre-compiled and ready to use. This approach 
 
 1. Download the cursor theme you want from this repository. OR
 2. If you want to download all themes just:
-   - `~git clone https://github.com/milkmadedev/oreo-cursors-compiled/`
+   - `git clone https://github.com/milkmadedev/oreo-cursors-compiled/`
 3. Move the extracted folder to one of these locations:
    - `~/.icons/` (for current user only)
    - `/usr/share/icons/` (for all users, requires root permissions)
